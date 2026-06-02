@@ -60,6 +60,9 @@ https://github.com/Anjanisuryaprabha-K/Dynamic-Weather-Dashboard
 - Mobile Friendly
 - Tablet Friendly
 - Desktop Friendly
+- Mobile Responsive Design
+- Cross-Browser Compatibility
+- Home Screen Installation Support
 
 ---
 
