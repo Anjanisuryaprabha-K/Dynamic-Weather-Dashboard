@@ -2,7 +2,7 @@
 
 A modern and responsive **Weather Dashboard Web Application** developed collaboratively by a team of three members. The application provides real-time weather information, hourly forecasts, weather highlights, air quality monitoring, favorites management, recent searches, dynamic weather animations, and dark mode support.
 
-The project focuses on delivering an interactive and visually appealing weather experience with responsive design and real-time weather insights powered by WeatherAPI. WeatherAPI provides current weather, forecast, astronomy, and air quality data used throughout this application. :contentReference[oaicite:0]{index=0}
+The project focuses on delivering an interactive and visually appealing weather experience with responsive design and real-time weather insights powered by WeatherAPI. WeatherAPI provides current weather, forecast, astronomy, and air quality data used throughout this application.
 
 ---
 
