@@ -73,25 +73,19 @@ https://github.com/Anjanisuryaprabha-K/Dynamic-Weather-Dashboard
 
 ### 🌙 Dark Mode
 
-![Dark Mode](assets/screenshots/dark-mode.png)
+![Dark Mode](assets/screenshots/darkmode.png)
 
 ---
 
 ### ⏰ Hourly Forecast
 
-![Hourly Forecast](assets/screenshots/hourly-forecast.png)
-
----
-
-### ⭐ Favorites Feature
-
-![Favorites](assets/screenshots/favorites.png)
+![Hourly Forecast](assets/screenshots/forecast.png)
 
 ---
 
 ### 🌧 Rainy Weather Theme
 
-![Rainy Theme](assets/screenshots/rainy-theme.png)
+![Rainy Theme](assets/screenshots/rainy.png)
 
 ---
 
@@ -133,10 +127,10 @@ Dynamic-Weather-Dashboard/
 └── assets/
     └── screenshots/
         ├── home.png
-        ├── dark-mode.png
-        ├── hourly-forecast.png
-        ├── favorites.png
-        ├── rainy-theme.png
+        ├── darkmode.png
+        ├── forecast.png
+        ├── search-weather.png
+        ├── rainy.png
         └── mobile-view.png
 ```
 
@@ -200,6 +194,98 @@ https://www.weatherapi.com/
 8. Use Current Location to get weather automatically.
 
 ---
+## 📱 Running on Mobile Devices
+
+You can access and use this project on mobile devices in the following ways:
+
+### Method 1: GitHub Pages (Recommended)
+
+After deployment, simply open the live project link in any mobile browser:
+
+```text
+https://yourusername.github.io/Dynamic-Weather-Dashboard/
+```
+
+Supported browsers:
+
+- Google Chrome
+- Microsoft Edge
+- Safari
+- Firefox
+
+---
+
+### Method 2: Local Network Testing
+
+If you are developing locally using VS Code Live Server:
+
+1. Connect your laptop and mobile phone to the same Wi-Fi network.
+2. Start the project using Live Server.
+3. Find your computer's local IP address.
+4. Open the following URL on your mobile browser:
+
+```text
+http://YOUR_IP_ADDRESS:5500
+```
+
+Example:
+
+```text
+http://192.168.1.5:5500
+```
+
+---
+
+### Mobile Features Supported
+
+✅ Responsive Design
+
+✅ Current Location Weather
+
+✅ Hourly Forecast
+
+✅ 3-Day Forecast
+
+✅ AQI Monitoring
+
+✅ Dark Mode
+
+✅ Favorites & Recent Searches
+
+✅ Dynamic Weather Animations
+
+---
+
+### Location Permission
+
+For accurate weather information:
+
+1. Open the application.
+2. Click the 📍 Location button.
+3. Allow location access when prompted.
+4. The dashboard will automatically display weather information for your current location.
+
+---
+
+### Add to Home Screen (Optional)
+
+For a more app-like experience:
+
+#### Android (Chrome)
+
+1. Open the live project link.
+2. Tap the ⋮ menu.
+3. Select **Add to Home Screen**.
+4. Tap **Install**.
+
+#### iPhone (Safari)
+
+1. Open the live project link.
+2. Tap the Share button.
+3. Select **Add to Home Screen**.
+4. Tap **Add**.
+
+The application can now be launched directly from your home screen like a mobile app.
 
 ## 🌟 Project Highlights
 
